@@ -7,6 +7,7 @@
 * Echo Swagger ( go get -u -v github.com/swaggo/echo-swagger )
 * Template Text ( go get github.com/alecthomas/template )
 
+* `export PATH=$(go env GOPATH)/bin:$PATH`
 * `swag init -g api/api.go -o api/docs`
 
 
