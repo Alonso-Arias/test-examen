@@ -14,6 +14,10 @@
 
 * `BASE_URL=https://farmanet.minsal.cl/index.php/ws/getLocales go run api/api.go`
 
+## Link Swagger
+
+* `http://localhost:1323/swagger/index.html`
+
 ## Ejecución de Tests
 
 * `BASE_URL=https://farmanet.minsal.cl/index.php/ws/getLocales go test ./...`
